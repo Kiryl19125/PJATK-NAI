@@ -1,0 +1,2 @@
+podstawowy sposób dzielenia łamu na rozpoznawalne wzrokiem mniejsze fragmenty w celu zwiększenia czytelności tekstu. Podstawowa jednostka logiczna dłuższego tekstu, składająca się z jednego lub wielu zdań stanowiących pewną całość treściową (myśl). Zadaniem akapitu jest wyraźne zaznaczenie nowej myśli w bieżącym wątku wypowiedzi.
+Przy dzieleniu akapitu między sąsiednimi łamami (lub kolumnami) należy dbać, aby zarówno na początku, jak i na końcu akapitu znajdowały się co najmniej dwa wiersze tekstu. Najczęstszymi błędami pojawiającymi się podczas dzielenia tekstu są:
